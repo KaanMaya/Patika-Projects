@@ -1,0 +1,22 @@
+.text-red {
+    color: red;
+}
+.text-green {
+    color: green;
+} 
+.text-deeppink {
+    color: deeppink;
+    font-size: 30px;
+}
+.text-blue {
+    color: rgb(0, 44, 139);
+}
+.center {
+    text-align: center;
+}
+.list-inside {
+    list-style-position: inside;
+}
+.tab{
+    text-indent: 40px;
+}
